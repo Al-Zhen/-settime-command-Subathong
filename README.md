@@ -1,4 +1,4 @@
-##Hello Julian##
+##Hello Julian
 ---
 ```
 This is an QOL for updating the timer using chat commands instead of going through Streamelements. 
